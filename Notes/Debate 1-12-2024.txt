@@ -1,0 +1,82 @@
+Debate topics:
+
+1) Data Science is/isn't a synonum for Artificial Intelligence
+2) Machine learning is/isn't a synonym for Artificial Intelligence
+3) Machine Learning is/isn't a synonym for Data Science
+
+Artificial Intelligence Definition: Computer Systems that are able to perform tasks that are historically hard for computers and easier for hummans
+
+My Shit: 
+    Topic I am arguing for: Machine Learning is a synonym for Data Science
+    
+    My Arguments:
+
+        -While both fields encompass a wide range of activities
+        -Machine Learning stands out as a crucial subset
+            -Significantly contributes to the broader landscape of Data Science
+        -The core essence of extracting insights from data is common to both
+        -Machine Learning plays a pivotal role in achieving this goal
+
+        -Machine Learning is a subset of Data Science
+            -Driving force behind predictive analytics and automated decision-making
+        -Ability of machines to learn from data without explicit programming
+            -Defining characteristic of both Machine Learning and Data Science
+        -Utilization of advanced algorithms and models in Machine Learning
+            -Integral part of the data science workflow
+            -Enhances predictive capabilities essential for informed decision-making
+    
+        -In summary, Machine Learning is not just a component of Data Science but a synonym
+            -Represents advanced techniques within the broader field
+            -Enables turning raw data into actionable insights
+
+    Possible Counter Arguments:
+
+        -Data Science is a comprehensive field
+            -Encompasses a spectrum of activities
+                -Data collection
+                -Cleaning
+                -Analysis
+                -Interpretation
+        -Machine Learning is a specialized subset
+            -Focuses on the development of algorithms and models
+
+        -Data Science involves various techniques beyond Machine Learning
+            -Statistical analysis
+            -Data visualization
+            -Exploratory data analysis
+        -These techniques are fundamental to the holistic approach of Data Science
+        -Considering Machine Learning as synonymous undermines the diversity and richness that Data Science offers
+
+        -The scope of Data Science extends beyond predictive analytics and automated decision-making
+            -Includes understanding patterns
+            -Generating actionable insights
+            -Communicating findings effectively
+        -Machine Learning, while powerful, is just one tool in the Data Scientist's toolbox
+
+        -In conclusion, while Machine Learning is a valuable component
+            -Falls short of being a synonym for Data Science
+            -Data Science encompasses a broader set of skills, methods, and objectives
+
+    Rebuttal:
+
+        -The strength of the synonymy argument lies in recognizing the significant role that Machine Learning plays within the realm of
+         Data Science
+            -Not about diminishing the importance of other data science techniques
+            -Acknowledging that Machine Learning stands as a key pillar
+            -Key in achieving the ultimate goal of deriving meaningful insights from data
+
+Our Script:
+
+        We acknowledge machine learning isn't an exact same thing as data science, according to IBM the definition of Machine Learning is a
+    branch of Artificial Intelligence and Computer Science which focuses on the use of data and algorithms to imitate the way that
+    humans learn, gradually improving its accuracy, whereas the definition of Data Science is using the combination of maths, 
+    statistics, specialized programming, advanced analytics and AI/Machine Learning in order to uncover actionable insights that can 
+    be used to make decisions that benefit someone or something in the future. If we look at high level algorithms around us like 
+    youtube recommendations that use a very high level of data science, we can see that Machine Learning is a very big part of it,
+    such a big part infact that if you get rid of it, it would be completely dismanteled. It's like a stool and it's legs where,
+    yes the legs are not the stool but if you get rid of the legs and then try to use the stool again you are just sitting on the
+    floor at that point.
+
+        According to the merriam webster, one of the definitionss of "synonym" is " a word or phrase that by association is held to 
+    embody something". We are currently at a point where every large and meaningful data science systems use machine learning to such 
+    a high degree that, Yes machine learing is infact a synonym for data science
